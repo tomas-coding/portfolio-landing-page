@@ -2440,3 +2440,7 @@ input, select, textarea {
 					}
 
 	}
+	.icons-container i{
+		color: lightslategrey;
+
+	}
