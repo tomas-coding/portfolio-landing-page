@@ -2408,7 +2408,7 @@ input, select, textarea {
 
 				#top .image {
 					width: 15em;
-					height: 15em;
+					height:fit-content;
 					margin-bottom: 0;
 				}
 
